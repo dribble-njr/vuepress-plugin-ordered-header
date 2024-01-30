@@ -1,0 +1,19 @@
+{
+  "name": "vuepress-plugin-ordered-header",
+  "version": "0.0.1",
+  "description": "A vuepress plugin for ordering headers in the sidebar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vuepress-plugin",
+    "ordered-header",
+    "ordered",
+    "header",
+    "vuepress",
+    "plugin"
+  ],
+  "author": "dribble-njr（https://github.com/dribble-njr）",
+  "license": "MIT"
+}
