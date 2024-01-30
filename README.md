@@ -27,7 +27,7 @@ And the sidebar will be:
 
 1.2 header 1-2
 
-2 header4
+2 header 2
 ```
 
 ## Installation
