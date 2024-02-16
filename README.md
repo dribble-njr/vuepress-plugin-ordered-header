@@ -47,5 +47,18 @@ import orderedHeader from "vuepress-plugin-ordered-header";
 
 module.exports = {
   plugins: [orderedHeader],
+  markdown: {
+    headers: {
+      level: [2, 3, 4],
+    },
+  },
 };
+```
+
+If you use `vuepress-theme-hope`，you should add the following config in `theme`:
+
+```js
+export default hopeTheme(
+  headerDepth: 3, // the depth header you want to render.
+)
 ```
