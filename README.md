@@ -13,7 +13,7 @@ Like this:
 
 ## header 1-2
 
-# header4
+# header 2
 ```
 
 And the sidebar will be:
@@ -55,7 +55,7 @@ module.exports = {
 };
 ```
 
-If you use `vuepress-theme-hope`，you should add the following config in `theme`:
+If you use `vuepress-theme-hope`，you also need to add the following config in `theme`:
 
 ```js
 export default hopeTheme(

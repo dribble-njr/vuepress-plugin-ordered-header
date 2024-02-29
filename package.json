@@ -1,6 +1,6 @@
 {
   "name": "vuepress-plugin-ordered-header",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A vuepress plugin for ordering headers in the sidebar.",
   "main": "index.js",
   "scripts": {
